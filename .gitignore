@@ -1,0 +1,9 @@
+node_modules
+dist/
+.cache/
+
+*.abi
+*.bin
+
+src/schema.js
+**/**/__generated__/*
